@@ -8,3 +8,4 @@ Mejorarar estilo
 
 
 
+Detalle: Poner el fondo en oscuro (no lo he conseguido)
